@@ -1,0 +1,12 @@
+.highlight {
+    background-color: yellow;
+    color: black;
+}
+.prompt {
+    background: yellow;
+}
+#sentence1, #sentence2 {
+  font-family: "Courier Prime", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
